@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .nav-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .about-me img {
+        width: 100%;
+        height: auto;
+    }
+}
